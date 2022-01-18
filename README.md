@@ -2,7 +2,7 @@
 - 👀 I’m interested in musics, games, books, ...
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on IC Design
-- 📫 How to reach me via mail angithub34530@gmail.com
+- 📫 How to reach me angithub34530@gmail.com
 
 <!---
 angithub34530/angithub34530 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
